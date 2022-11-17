@@ -1,6 +1,6 @@
 # Pomodoro_watch
 
-A simple App to help you improve your productivity throught better time managing.
+A simple App to help you improve your productivity throught better time managment.
 
 ## Using
 
